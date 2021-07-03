@@ -10,6 +10,6 @@ title: ""
 subtitle: ""
 design:
   columns: "1"
-hero_media: welcome.jpg
+hero_media: Nats_NFF_Twitter1.jpg
 ---
 The Organised Interests and Politics Lab (OI_P Lab) engages in foundational and applied research on interest groups, thinks tanks, corporations and lobbyists in contemporary politics: both in Australia and internationally.
