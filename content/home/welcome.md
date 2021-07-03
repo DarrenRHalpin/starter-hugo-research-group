@@ -3,10 +3,10 @@ advanced:
   ? css_style
   ? css_class
 widget: hero
-widget_id: Organised Interests and Politics Lab
+widget_id: Organised Interests and Politics Lab (OI_P Lab)
 headless: true
 weight: 10
-title: Organised Interests and Politics Lab (OI_P Lab)
+title: ""
 subtitle: ""
 design:
   columns: "1"
