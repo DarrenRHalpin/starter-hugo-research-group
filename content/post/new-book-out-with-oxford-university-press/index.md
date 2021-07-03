@@ -1,5 +1,5 @@
 ---
-title: "New Book out with Oxford University Press: "
+title: New Book on Silicon Valley Political Advocacy out with Oxford University Press
 date: 2021-07-03T06:01:02.599Z
 draft: false
 featured: false
