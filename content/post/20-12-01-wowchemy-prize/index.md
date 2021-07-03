@@ -1,6 +1,6 @@
 ---
 title: "New Article: Which Audiences Engage With Advocacy Groups on Twitter?"
-date: 2020-12-01
+date: 2021-07-03T05:27:26.780Z
 image:
   filename: screen-shot-2021-06-29-at-2.27.04-pm.png
 ---
