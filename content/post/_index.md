@@ -1,14 +1,15 @@
 ---
-title: Latest News
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: "New Article: Which Audiences Engage With Advocacy Groups on Twitter?"
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+date: 2021-07-03T05:36:21.208Z
+image:
+  filename: screen-shot-2021-06-29-at-2.27.04-pm.png
+  preview_only: true
+  focal_point: SMART
 ---
+Most interest groups have made the move to social media platforms such as Twitter as a means of engaging with Members of Parliament, political journalists and other groups. A recently published article in Nonprofit and Voluntary Sector Quarterly tracks how almost 1000 Australian national interest groups managed to generate engagement - retweets and replies - from members of the Australian Parliament, members of the Canberra Press Gallery and among other interest groups on Twitter. Using computational methods, such as social network analysis and text analysis, the research maps interactions amongst these sets of important national political agents. 
+
+Details of article: Halpin, D., Fraussen, B. and R. Ackland (2020), "Which Audiences Engage With Advocacy Groups on Twitter? Explaining the Online Engagement of Elite, Peer, and Mass Audiences With Advocacy Groups,"  *Nonprofit and Voluntary Sector Quarterly*. Published online 21 December 2020. [https://doi.org/10.1177/0899764020979818](https://doi.org/10.1177%2F0899764020979818)
