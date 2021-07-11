@@ -25,4 +25,5 @@ social:
     icon_pack: far
     icon: <i class="fab fa-twitter"></i>
 superuser: true
+user_groups: ["Researchers"]
 ---
