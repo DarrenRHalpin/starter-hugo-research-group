@@ -1,7 +1,7 @@
 ---
 title: Darren R. Halpin
 role: Professor of Political Sciece
-avatar_filename: 18sept-phouse-104.jpg
+avatar_filename: avatar.jpg
 bio: "I am a Professor of Political Science at the Australian National
   University. I research and write about organised interests in politics
   (interest groups, thinks tanks, corporations and lobbyists) and political
@@ -25,5 +25,6 @@ social:
     icon_pack: far
     icon: <i class="fab fa-twitter"></i>
 superuser: true
-user_groups: ["Researchers"]
+user_groups:
+  - Researchers
 ---
